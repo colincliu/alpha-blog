@@ -1,1 +1,1 @@
-this is the repository for the first udemy ruby on rails course project
+this is the repository for the first udemy ruby on rails course projects
